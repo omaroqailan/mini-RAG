@@ -128,4 +128,4 @@ tempCodeRunnerFile.py
 .ruff_cache/
 
 # Streamlit
-.streamlit/secrets.toml
+.streamlit/secrets.toml     
